@@ -32,7 +32,6 @@ echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
 
-if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 echo $cyan " LOGIN DULU CUK
@@ -41,7 +40,7 @@ termux-open https://soo.gd/5GN1
 fi
 
 
-if [ $bro = 2 ] || [ $bro = 2]
+
 then
 clear
 echo $cyan " LOGIN DULU CUK
