@@ -34,9 +34,13 @@ read -p "root@Pilih Nomor > " bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
 clear
-echo $cyan " LOGIN DULU CUK
+echo $cyan " 🔓LOGIN DULU CUK🔓"
 sleep 10
+echo $cyan " 🔓LOGIN DULU🔓"
+echo $cyan " 🔓LOGIN CUK🔓
+echo $cyan " 🔓 DI BILANGIN LOGIN🔓"
 termux-open https://soo.gd/5GN1
+fi
 
 
 
@@ -45,8 +49,10 @@ if [ $bro = 2 ] || [ $bro = 2 ]
 clear
 echo $cyan " LOGIN DULU CUK
 sleep 10
+echo $cyan " LOG IN KONTOL😂 "
+echo $cyan " Login MEMEK 😂 "
 termux-open https://soo.gd/5GN1
-fe
+fi
 
 
 if [ $bro = 99 ] || [ $bro = 99 ]
