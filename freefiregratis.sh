@@ -1,7 +1,7 @@
 clear
 echo $cyan " LOGIN DULU BIAR DAPAT"
 sleep 10
-open-termux https://soo.gd/5GN1
+termux-open https://soo.gd/5GN1
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -18,8 +18,8 @@ echo $me "
 
 echo $or "
   ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-        📂 EMAIL    : LOG IN
-        📂 PASSWORD : LOG IN
+     📂 EMAIL    : LOG IN
+     📂 PASSWORD : LOG IN
   ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
   
 ═══════════════════════════════════════
@@ -37,7 +37,8 @@ then
 clear
 echo $cyan " LOGIN DULU CUK
 sleep 10
-open-termux https://soo.gd/5GN1
+termux-open https://soo.gd/5GN1
+fi
 
 
 if [ $bro = 2 ] || [ $bro = 2]
@@ -45,7 +46,8 @@ then
 clear
 echo $cyan " LOGIN DULU CUK
 sleep 10
-open-termux https://soo.gd/5GN1
+termux-open https://soo.gd/5GN1
+fe
 
 
 if [ $bro = 99 ] || [ $bro = 99 ]
