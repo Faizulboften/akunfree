@@ -10,8 +10,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
-echo $me "
-   echo $ku "
+ echo $ku "
 ╭━┳━╭━╭━╮            🔓FAJZUL BOFTEN
 ┃┈┈┈┣▅╋▅┫┃           🔓20 SCRIP TOOLS HACKIG
 ┃┈┃┈╰━╰━━━━━━╮      🔓JANGAN RECODE  SCRIP GUA
