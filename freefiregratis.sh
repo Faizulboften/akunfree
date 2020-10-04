@@ -24,7 +24,7 @@ or='\033[1;38;5;208m' #Orange
 
 echo $or "
   ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-            NOTE🔴 LOGIN 
+         NOTE🔴 LOGIN 
   ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
   
 ═══════════════════════════════════════
@@ -36,15 +36,11 @@ echo $or "
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
-
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 echo $cyan " 🔓LOGIN DULU CUK🔓"
 sleep 10
-echo $cyan " 🔓LOGIN DULU🔓"
-echo $cyan " 🔓LOGIN CUK🔓
-echo $cyan " 🔓 DI BILANGIN LOGIN🔓"
 pkg install git
 pkg install python2
 git clone https://github.com/Faizulboften/2TOOLSACCOND
@@ -52,23 +48,16 @@ cd 2TOOLSACCOND
 sh 3acc.sh
 fi
 
-
-
-
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
 echo $cyan " LOGIN DULU CUK
 sleep 10
-echo $cyan " LOG IN KONTOL😂 "
-echo $cyan " Login MEMEK 😂 "
-sleep 2
 pkg install git
 git clone https://github.com/Faizulboften/garena
 cd garena
 sh jos.sh
 fi
-
 
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
